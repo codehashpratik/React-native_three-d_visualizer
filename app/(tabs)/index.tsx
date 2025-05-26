@@ -356,7 +356,7 @@ const Index = () => {
               }}
               hdrIntensity={2.5}
               textureRepeat={[2, 2]}
-              // color="#eee"
+              color="#eee"
             />
           </Suspense>
         </Canvas>
